@@ -1,5 +1,3 @@
-Here is a `README.md` file for your GitHub repository:
-
 # tmpfile
 
 `tmpfile` is a Go package that provides a simple wrapper around temporary files. It allows you to create, read, write, seek, and automatically delete temporary files.
